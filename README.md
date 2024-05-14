@@ -23,3 +23,12 @@ Escribe una función que reciba dos String y retorne verdadero o falso según se
  * Un Anagrama consiste en formar una palabra reordenando las letras de otra palabra inicial.
  * NO hace falta comprobar que ambas palabras existan.
 ```
+
+### ✔️ Reto 3: "FIBONACCI"
+
+```
+Escribe un programa que imprima los 50 primeros números de la sucesión de Fibonacci empezando en 0:
+
+ * La serie Fibonacci se compone por una sucesión de números en la que el siguiente siempre es la suma de los dos anteriores.
+ * 0, 1, 1, 2, 3, 5, 8, 13...
+```
